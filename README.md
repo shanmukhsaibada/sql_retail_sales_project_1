@@ -1,6 +1,8 @@
 
 # Retail Sales Analysis SQL Project
 
+![Retail Sales ](retailsales.PNG)
+
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
