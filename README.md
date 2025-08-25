@@ -1,7 +1,7 @@
 
 # Retail Sales Analysis SQL Project
 
-![Retail Sales ](retailsales.PNG)
+![Retail Sales ](retailsales.png)
 
 ## Project Overview
 
